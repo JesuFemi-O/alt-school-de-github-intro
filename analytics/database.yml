@@ -1,0 +1,11 @@
+Databases:
+  - name: raw
+    tables:
+      - students
+      - cars
+      - expenses
+      - freelancers
+      - crypto_coins
+  - name: services
+    tables:
+      - shopify
